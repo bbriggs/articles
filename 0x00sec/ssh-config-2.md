@@ -55,6 +55,6 @@ Go ahead and connect to your jumpbox and verify that your keys aren't on there b
 
 ### Further reading:
 
-https://linux.die.net/man/1/ssh-agent
-http://sshkeychain.sourceforge.net/mirrors/SSH-with-Keys-HOWTO/SSH-with-Keys-HOWTO-6.html
-https://developer.github.com/guides/using-ssh-agent-forwarding/
+- https://linux.die.net/man/1/ssh-agent
+- http://sshkeychain.sourceforge.net/mirrors/SSH-with-Keys-HOWTO/SSH-with-Keys-HOWTO-6.html
+- https://developer.github.com/guides/using-ssh-agent-forwarding/
